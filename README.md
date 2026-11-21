@@ -25,6 +25,7 @@ This course was written while actually learning, so every lesson includes the re
 ## Lessons
 
 - [Lesson 0 — Setting up your developer environment](lessons/00-setup.md)
+- [Lesson 1 — Variables, types and your first real program](lessons/01-variables-and-types.md)
 
 More lessons are added as the course grows.
 
